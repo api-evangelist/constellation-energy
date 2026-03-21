@@ -1,0 +1,17 @@
+openapi: 3.1.0
+info:
+  title: Constellation Energy API
+  description: >-
+    Constellation Energy Corporation is the largest producer of carbon-free
+    energy in the United States, operating a fleet of nuclear, wind, solar,
+    and hydroelectric generation facilities. The company provides energy
+    management tools for customers but does not currently offer a publicly
+    documented developer API.
+  version: '1.0'
+servers:
+  - url: https://www.constellation.com
+tags:
+  - name: Energy
+    description: Clean energy generation and management.
+paths: {}
+components: {}
