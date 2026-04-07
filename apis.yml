@@ -1,7 +1,11 @@
 aid: constellation-energy
-url: https://raw.githubusercontent.com/api-evangelist/constellation-energy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/constellation-energy/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.constellation-energy.com
+description: >-
+  Constellation Energy is a leading clean energy producer in the United States, generating
+  electricity from a diverse mix of nuclear, hydro, wind, and solar facilities.
