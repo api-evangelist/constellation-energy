@@ -20,7 +20,7 @@ created: '2026-03-21'
 modified: '2026-04-29'
 position: Consumer
 specificationVersion: '0.19'
-x-type: company
+kind: company
 description: >-
   Constellation Energy Corporation is a Fortune 500 clean-energy producer
   and competitive retail electricity and natural gas supplier in the United
@@ -48,9 +48,9 @@ common:
     url: https://investors.constellationenergy.com
   - type: Careers
     url: https://jobs.constellationenergy.com
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.constellationenergy.com/privacy.html
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.constellation.com/terms-of-use.html
   - type: Support
     url: https://www.constellation.com/about-us/contact-us.html
