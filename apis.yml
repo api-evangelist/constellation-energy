@@ -34,6 +34,8 @@ description: >-
   arranged on a contract-by-contract basis.
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/constellation-energy
   - type: Website
     url: https://www.constellationenergy.com
   - type: Customer Site
