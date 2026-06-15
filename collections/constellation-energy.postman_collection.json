@@ -1,0 +1,31 @@
+{
+  "item": [
+    {
+      "id": "fcb28d67-daa9-4cbf-9506-a4e512bc5ee0",
+      "name": "Energy",
+      "description": {
+        "content": "Clean energy generation and management.",
+        "type": "text/plain"
+      },
+      "item": [],
+      "event": []
+    }
+  ],
+  "event": [],
+  "variable": [
+    {
+      "type": "string",
+      "value": "https://www.constellation.com",
+      "key": "baseUrl"
+    }
+  ],
+  "info": {
+    "_postman_id": "70b08839-508e-4b0f-a64b-7efd98c14546",
+    "name": "Constellation Energy API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "description": {
+      "content": "Constellation Energy Corporation is the largest producer of carbon-free energy in the United States, operating a fleet of nuclear, wind, solar, and hydroelectric generation facilities. The company provides energy management tools for customers but does not currently offer a publicly documented developer API.",
+      "type": "text/plain"
+    }
+  }
+}
