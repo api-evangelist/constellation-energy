@@ -34,6 +34,8 @@ description: >-
   arranged on a contract-by-contract basis.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/constellation-energy-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/constellation-energy
   - type: Website
