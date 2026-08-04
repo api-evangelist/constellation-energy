@@ -1,0 +1,14 @@
+{
+  "provider": "constellation-energy",
+  "sources": [
+    "constellation-energy-openapi.yml"
+  ],
+  "outputs": [],
+  "archived": [
+    "archived constellation-energy-openapi.yml"
+  ],
+  "errors": [],
+  "warnings": [],
+  "notes": [],
+  "skipped": []
+}
