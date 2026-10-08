@@ -59,6 +59,12 @@ description: >-
   arranged on a contract-by-contract basis.
 apis: []
 common:
+  - type: Plans
+    url: plans/constellation-energy-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/constellation-energy-rate-limits.yml
+  - type: FinOps
+    url: finops/constellation-energy-finops.yml
   - type: DomainSecurity
     url: security/constellation-energy-domain-security.yml
   - type: LinkedIn
