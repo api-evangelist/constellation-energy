@@ -1,4 +1,4 @@
-# Constellation Energy (constellation-energy)
+# Constellation Energy
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,47 +66,104 @@
 
 Constellation Energy Corporation is a Fortune 500 clean-energy producer and competitive retail electricity and natural gas supplier in the United States, generating power from a fleet of nuclear, hydro, wind, and solar facilities. Constellation does not publish a public developer portal; programmatic interactions are delivered to enterprise and large commercial customers through the Energy Manager platform (account-managed onboarding, no public API specifications) and consumer interactions are handled through the My Constellation account portal. EDI 867 (usage) and 810 (invoice) remain the most common machine-to-machine integration paths and are arranged on a contract-by-contract basis.
 
-**APIs.json:** [https://raw.githubusercontent.com/api-evangelist/constellation-energy/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/constellation-energy/refs/heads/main/apis.yml)
+**Areas:** Clean Energy · Electricity · Energy · Fortune 500 · Hydro · Natural Gas · Nuclear · Solar · Utility · Wind
 
-## Scope
+## Constellation Energy on APIs.io
 
-- **Type:** Index
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Everything profiled for Constellation Energy is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/constellation-energy/](https://apis.io/providers/constellation-energy/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Clean Energy
-- Electricity
-- Energy
-- Fortune 500
-- Hydro
-- Natural Gas
-- Nuclear
-- Solar
-- Utility
-- Wind
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Collections (1)
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-04-29
+Postman and Open Collection request collections.
 
-## Common Properties
+- [Constellation Energy API](https://apis.io/collections/constellation-energy/open-constellation-energy/)
 
-- [LinkedIn](https://www.linkedin.com/company/constellation-energy)
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Constellation Energy Domain Security](https://apis.io/security/constellation-energy/constellation-energy-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Constellation Energy Plans Pricing](https://apis.io/plans/constellation-energy/constellation-energy-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Constellation Energy Rate Limits](https://apis.io/rate-limits/constellation-energy/constellation-energy-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Constellation Energy Finops](https://apis.io/finops/constellation-energy/constellation-energy-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Website](https://www.constellationenergy.com)
-- [Customer  Site](https://www.constellation.com)
-- [My  Constellation  Portal](https://my-account.constellationconnect.com)
-- [Energy  Manager](https://energymanager.constellation.com)
-- [Energy  Management  Tools](https://www.constellation.com/why/energy-management-tools.html)
-- [Investor  Relations](https://investors.constellationenergy.com)
-- [Careers](https://jobs.constellationenergy.com)
-- [Privacy Policy](https://www.constellationenergy.com/privacy.html)
-- [Terms of Service](https://www.constellation.com/terms-of-use.html)
 - [Support](https://www.constellation.com/about-us/contact-us.html)
+- [Terms of service](https://www.constellation.com/terms-of-use.html)
+- [Privacy policy](https://www.constellationenergy.com/privacy.html)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 6.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/constellation-energy/](https://apis.io/providers/constellation-energy/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Constellation Energy: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/constellation-energy/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
